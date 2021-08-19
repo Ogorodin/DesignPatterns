@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ObserverPattern_WeatherA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "041_ObserverPattern_WeatherApp_ActionEvent", "041_ObserverPattern_WeatherApp_ActionEvent\041_ObserverPattern_WeatherApp_ActionEvent.csproj", "{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_DecoratorPattern_CondimentDecorator", "05_DecoratorPattern_CondimentDecorator\05_DecoratorPattern_CondimentDecorator.csproj", "{4D226C94-2522-4534-9B7D-24537C238778}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D226C94-2522-4534-9B7D-24537C238778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D226C94-2522-4534-9B7D-24537C238778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D226C94-2522-4534-9B7D-24537C238778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D226C94-2522-4534-9B7D-24537C238778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
