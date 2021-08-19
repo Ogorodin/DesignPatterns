@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_StrategyPattern_PathFind
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_StrategyPattern_PaymentSystem", "03_StrategyPattern_PaymentSystem\03_StrategyPattern_PaymentSystem.csproj", "{819A9E4B-0F0A-4A0C-864A-369D502E0BFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ObserverPattern_WeatherApp_Interfaces", "04_ObserverPattern_WeatherApp_Interfaces\04_ObserverPattern_WeatherApp_Interfaces.csproj", "{F60E923B-2E35-4D0F-A377-4B87DD352161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ObserverPattern_WeatherApp_Interfaces", "04_ObserverPattern_WeatherApp_Interfaces\04_ObserverPattern_WeatherApp_Interfaces.csproj", "{F60E923B-2E35-4D0F-A377-4B87DD352161}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "041_ObserverPattern_WeatherApp_ActionEvent", "041_ObserverPattern_WeatherApp_ActionEvent\041_ObserverPattern_WeatherApp_ActionEvent.csproj", "{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F60E923B-2E35-4D0F-A377-4B87DD352161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F60E923B-2E35-4D0F-A377-4B87DD352161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F60E923B-2E35-4D0F-A377-4B87DD352161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C7129B-F5AA-4049-98EC-FBFC8A6B5682}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
