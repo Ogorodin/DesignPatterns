@@ -5,13 +5,15 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Singleton", "01_Singleton\01_Singleton.csproj", "{34474147-CA1C-44BB-867A-8B78B8001826}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_FactoryPattern_Simple", "02_FactoryPattern_Simple\02_FactoryPattern_Simple.csproj", "{A01182D3-EA96-4619-8BDE-888CB0D916D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_FactoryPattern_Simple", "02_FactoryPattern_Simple\02_FactoryPattern_Simple.csproj", "{A01182D3-EA96-4619-8BDE-888CB0D916D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_FactoryPattern_AbstractFactoryMethod", "021_FactoryPattern_AbstractFactoryMethod\021_FactoryPattern_AbstractFactoryMethod.csproj", "{2DF29D73-797F-44BE-9F55-8BFFB429F4EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021_FactoryPattern_AbstractFactoryMethod", "021_FactoryPattern_AbstractFactoryMethod\021_FactoryPattern_AbstractFactoryMethod.csproj", "{2DF29D73-797F-44BE-9F55-8BFFB429F4EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_StrategyPattern_PathFinderDemo", "03_StrategyPattern_PathFinderDemo\03_StrategyPattern_PathFinderDemo.csproj", "{9F2D4C26-6FA0-4355-A352-BEDAFD70BAD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_StrategyPattern_PathFinderDemo", "03_StrategyPattern_PathFinderDemo\03_StrategyPattern_PathFinderDemo.csproj", "{9F2D4C26-6FA0-4355-A352-BEDAFD70BAD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_StrategyPattern_PaymentSystem", "03_StrategyPattern_PaymentSystem\03_StrategyPattern_PaymentSystem.csproj", "{819A9E4B-0F0A-4A0C-864A-369D502E0BFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_StrategyPattern_PaymentSystem", "03_StrategyPattern_PaymentSystem\03_StrategyPattern_PaymentSystem.csproj", "{819A9E4B-0F0A-4A0C-864A-369D502E0BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ObserverPattern_WeatherApp_Interfaces", "04_ObserverPattern_WeatherApp_Interfaces\04_ObserverPattern_WeatherApp_Interfaces.csproj", "{F60E923B-2E35-4D0F-A377-4B87DD352161}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{819A9E4B-0F0A-4A0C-864A-369D502E0BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{819A9E4B-0F0A-4A0C-864A-369D502E0BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{819A9E4B-0F0A-4A0C-864A-369D502E0BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60E923B-2E35-4D0F-A377-4B87DD352161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60E923B-2E35-4D0F-A377-4B87DD352161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60E923B-2E35-4D0F-A377-4B87DD352161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60E923B-2E35-4D0F-A377-4B87DD352161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
