@@ -8,7 +8,6 @@
         {
             return _cost;
         }
-
         public string GetDescription()
         {
             return _description;
